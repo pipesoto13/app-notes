@@ -1,0 +1,1 @@
+/* Archivo para poder tener conexion a una base de datos y será utilizado por index.js */
